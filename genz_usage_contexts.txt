@@ -1,0 +1,17 @@
+casual_conversation
+celebrity_gossip
+commenting
+compliment
+criticism
+dating_context
+fashion_beauty
+food_related
+gaming
+humor
+meme_reference
+music_discussion
+news_reaction
+reaction
+self_description
+storytelling
+work_school

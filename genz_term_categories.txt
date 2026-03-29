@@ -1,0 +1,17 @@
+appearance
+approval
+attraction
+behavior
+dating
+description
+emotion
+emphasis
+exposure
+food
+humor
+identity
+insult
+manipulation
+meme
+reaction
+social

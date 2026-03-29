@@ -1,0 +1,67 @@
+region,syllable_bucket,posts,unique_terms
+California,2,28842,21
+New York,2,23943,21
+Texas,2,21692,21
+UK,2,19368,21
+California,3+,18409,14
+California,1,16796,11
+Florida,2,16769,21
+New York,3+,15181,14
+New York,1,14148,11
+Texas,3+,13704,14
+Texas,1,12883,11
+Illinois,2,12341,21
+UK,3+,12235,14
+Canada,2,12006,21
+India,2,11977,21
+UK,1,11160,11
+Florida,3+,10705,14
+Florida,1,10076,11
+Australia,2,9809,21
+Georgia,2,9669,21
+Pennsylvania,2,9566,21
+Illinois,3+,7789,14
+India,3+,7765,14
+Canada,3+,7667,14
+Michigan,2,7403,21
+Ohio,2,7252,21
+Washington,2,7236,21
+Brazil,2,7188,21
+Philippines,2,7118,21
+Illinois,1,7029,11
+India,1,6985,11
+Canada,1,6951,11
+Australia,3+,6153,14
+Pennsylvania,3+,6133,14
+Georgia,3+,6105,14
+Australia,1,5674,11
+Georgia,1,5621,11
+Pennsylvania,1,5593,11
+Arizona,2,4986,21
+South Africa,2,4874,21
+Germany,2,4842,21
+Mexico,2,4823,21
+Nigeria,2,4818,21
+Colorado,2,4810,21
+Ohio,3+,4621,14
+Washington,3+,4620,14
+Michigan,3+,4586,14
+Philippines,3+,4582,14
+Brazil,3+,4454,14
+Philippines,1,4273,11
+Brazil,1,4245,11
+Michigan,1,4242,11
+Ohio,1,4237,11
+Washington,1,4205,11
+Nigeria,3+,3127,14
+Germany,3+,3106,14
+Mexico,3+,3041,14
+South Africa,3+,2998,14
+Colorado,3+,2989,14
+Arizona,3+,2982,14
+Germany,1,2858,11
+Colorado,1,2844,11
+Nigeria,1,2839,11
+Arizona,1,2824,11
+Mexico,1,2824,11
+South Africa,1,2805,11

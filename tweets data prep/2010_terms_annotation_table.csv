@@ -1,0 +1,153 @@
+word,tweet_count,first_date,last_date,term_meaning,term_category,origin_platform,origin_platform_confidence,notes
+a-list,460,2010-01-05,2010-12-30,"elite, top-tier, high-status",description,offline_general_slang,medium,Batch 8 approved after review; treated as a status descriptor rather than approval.
+annihilated,479,2010-01-07,2011-01-01,"completely destroyed, defeated, or overwhelmed",description,offline_general_slang,high,Batch 5 approved after review; matched to Gen-Z taxonomy.
+AWOL,479,2010-01-02,2010-12-15,"""Absent Without Leave""; missing, gone, or unexpectedly absent",description,offline_general_slang,high,Batch 3 approved after review; acronym expansion included in quoted form.
+badass,493,2010-01-06,2010-12-29,"tough, formidable, striking, or impressively cool",description,offline_general_slang,high,Batch 2 approved after review; resolved to description rather than approval.
+Baltimoron,201,2010-01-04,2011-01-05,a disparaging term for someone from Baltimore,insult,offline_general_slang,low,
+BFFL,494,2010-01-02,2010-12-30,"""Best Friend For Life""; a very close lifelong friend",social,instant_messaging_texting,medium,Batch 2 approved after review; matched to Gen-Z taxonomy.
+Bible-thumping,232,2010-01-20,2010-12-31,"aggressively pious, preachy, or moralizing",religion,offline_general_slang,high,Batch 12 approved after review; existing 2010-only religion category used.
+blankie,212,2010-01-13,2010-12-09,blanket; affectionate or childlike word for blanket,description,offline_general_slang,high,Batch 12 approved after review; weak taxonomy fit retained for full coverage.
+bling,259,2010-02-15,2010-12-15,flashy jewelry or flashy style/accessories,appearance,music_hiphop,high,Batch 12 approved after review; matched to Gen-Z taxonomy.
+blowjob,469,2010-01-03,2010-12-09,oral sex performed on a penis,sex,offline_general_slang,high,Batch 8 approved after review; existing 2010-only sex category used.
+blumpkin,260,2010-01-04,2011-01-01,oral sex performed on someone using the toilet,sex,internet_forums,low,Batch 12 approved after review; existing 2010-only sex category used.
+bodice-ripper,238,2010-01-04,2010-12-30,melodramatic romance novel,dating,printed_literature,high,Batch 12 approved after review; dataset usage clearly reflects the romance-novel genre sense.
+bomb,303,2010-01-17,2011-01-01,excellent; very good; impressive,approval,offline_general_slang,high,Batch 11 approved after review; fixed slang meaning used despite some literal rows.
+bonehead,204,2010-01-06,2010-11-18,stupid person; fool,insult,offline_general_slang,high,Batch 12 approved after review; matched to Gen-Z taxonomy.
+booty,456,2010-01-08,2010-12-02,buttocks; sexy rear end,attraction,offline_general_slang,high,Batch 8 approved after review; attraction chosen over appearance/sex due to sexualized desirability sense.
+bowl,489,2010-01-02,2010-12-29,"a bowl; also used in compounds like ""Super Bowl"" or ""bowl game""",description,offline_general_slang,medium,
+bro,494,2010-01-03,2010-12-27,brother or male friend; casual friendly term of address,social,offline_general_slang,high,Batch 2 approved after review; matched to Gen-Z taxonomy.
+bromance,476,2010-01-04,2010-12-28,a close but non-romantic friendship between men,social,offline_general_slang,high,Batch 3 approved after review; matched to Gen-Z taxonomy.
+Brotox,59,2010-01-12,2010-12-14,Botox for men; male-targeted cosmetic Botox treatment,appearance,offline_general_slang,low,
+bumfuck,415,2010-01-05,2010-12-28,"an extremely remote, middle-of-nowhere place",description,offline_general_slang,medium,Batch 7 approved after review; matched to Gen-Z taxonomy.
+bupkis,241,2010-01-03,2010-12-18,nothing; nothing at all,emphasis,offline_general_slang,high,Batch 12 approved after review; emphasis used as the least-bad fit for total absence/zero.
+carny,492,2010-01-24,2010-12-28,carnival worker or carnival-associated person,identity,offline_general_slang,high,Batch 9 approved after review; matched to Gen-Z taxonomy.
+CBA,495,2010-01-24,2010-12-31,can't be arsed; can't be bothered or unwilling to deal with something,behavior,instant_messaging_texting,medium,Batch 1 agent split between behavior and emotion; resolved to behavior as the closest Gen-Z fit.
+celebutante,256,2010-01-18,2010-12-10,celebrity socialite; fame-based debutante type,identity,offline_general_slang,high,Batch 12 approved after review; matched to Gen-Z taxonomy.
+chillax,298,2010-02-07,2010-12-03,calm down; relax; take it easy,behavior,offline_general_slang,medium,Batch 10 approved after review; matched to Gen-Z taxonomy.
+chones,286,2010-01-05,2010-12-30,underwear; underpants,appearance,offline_general_slang,high,
+colitas,234,2010-01-04,2010-12-31,"""little tails""; in this context, marijuana buds or the potent flowering tops of the plant",drug,offline_general_slang,low,
+compo,464,2010-01-07,2010-12-28,"short for ""composition"" or ""compensation,"" depending on context",description,offline_general_slang,low,
+compy,489,2010-01-03,2010-12-19,computer; informal clipping,technology,offline_general_slang,medium,Batch 4 approved after review; new category added because Gen-Z taxonomy did not fit.
+conniption,419,2010-01-06,2010-12-19,"fit of anger, agitation, or hysteria",emotion,offline_general_slang,high,Batch 7 approved after review; matched to Gen-Z taxonomy.
+crappy,497,2010-01-03,2010-12-26,"bad, low-quality, unpleasant, or physically lousy",description,offline_general_slang,high,Batch 2 approved after review; matched to Gen-Z taxonomy.
+crock,475,2010-01-06,2010-12-29,nonsense; rubbish; bullshit,insult,offline_general_slang,high,Batch 6 approved after review; dismissive slang sense used over literal noun sense.
+crossfade,391,2010-01-07,2010-12-29,a crossfade; blended transition between audio tracks or media,technology,offline_general_slang,medium,
+crowdsourcing,459,2010-01-18,2010-12-26,"obtaining ideas, services, or content from a large distributed online group",technology,printed_literature,medium,Batch 9 approved after review; existing 2010-only technology category used.
+dafuq,255,2010-01-06,2010-12-28,"""the fuck?"" variant expressing confusion or disbelief",reaction,internet_forums,medium,Batch 12 approved after review; matched to Gen-Z taxonomy.
+dang,268,2010-02-17,2010-12-29,"mild exclamation of surprise, frustration, or emphasis",reaction,offline_general_slang,high,Batch 11 approved after review; matched to Gen-Z taxonomy.
+DFTBA,473,2010-01-03,2010-12-30,"""Don't Forget To Be Awesome""",approval,youtube,high,Batch 5 approved after review; acronym expansion included in quoted form.
+dis,496,2010-01-07,2010-12-24,"""this""; nonstandard spelling or pronunciation used in casual speech",social,offline_general_slang,medium,Batch 4 approved after review; weak taxonomy fit but retained for full coverage.
+dogg,234,2010-01-03,2010-12-31,"variant of ""dog"" or ""dawg""; used as a nickname or casual term of address",social,music_hiphop,high,
+duckface,434,2010-01-03,2010-12-20,"pouty-lipped facial pose/expression, especially for photos",appearance,internet_forums,medium,Batch 7 approved after review; matched to Gen-Z taxonomy.
+dudette,280,2010-01-03,2010-12-24,"female version of ""dude""; casual label for a woman/girl",identity,offline_general_slang,high,Batch 10 approved after review; matched to Gen-Z taxonomy.
+ent,490,2010-01-06,2010-12-08,"short for ""entertainment""; in some tweets also appears as dialectal ""ain't/isn't""",social,instant_messaging_texting,low,
+F2F,461,2010-01-08,2010-12-17,"""face to face""; in person",social,instant_messaging_texting,high,Batch 7 approved after review; acronym expansion included in quoted form.
+fanboy,304,2010-01-22,2010-12-21,overly enthusiastic or obsessive male fan,identity,offline_general_slang,high,Batch 7 approved after review; matched to Gen-Z taxonomy.
+fap,483,2010-01-03,2010-12-29,to masturbate,behavior,internet_forums,medium,"Batch 5 approved after review; dataset is noisy, but core slang meaning is behavioral."
+fidiot,145,2010-01-07,2010-12-24,a fucking idiot; emphatic insult blend,insult,offline_general_slang,low,
+fire,495,2010-01-13,2010-12-19,"excellent, cool, outstanding",approval,music_hiphop,medium,Batch 8 approved after review; fixed slang meaning used despite literal/noisy dataset rows.
+flutterby,243,2010-01-19,2010-12-29,"playful altered form of ""butterfly""",description,printed_literature,medium,
+freckle,494,2010-01-08,2010-12-30,a small pigmented spot on the skin,appearance,offline_general_slang,high,Batch 9 approved after review; literal but stable term added for full coverage.
+gag,498,2010-01-06,2011-01-01,"to retch, choke, or react with disgust or nausea",reaction,offline_general_slang,high,Batch 4 approved after tweet review; dataset usage is primarily disgust/nausea rather than modern positive slang.
+gangsta,486,2010-01-09,2010-12-28,"gangster-like; tough, swaggering, or street-styled",identity,music_hiphop,high,Batch 7 approved after review; aligned exactly with existing gansta entry.
+gansta,489,2010-01-06,2010-12-29,"gangster-like; tough, swaggering, or street-styled",identity,music_hiphop,high,Batch 4 approved after review; matched to Gen-Z taxonomy.
+gayborhood,335,2010-01-01,2010-12-30,neighborhood associated with gay/LGBTQ+ culture or residents,identity,offline_general_slang,medium,Batch 10 approved after review; identity/community sense treated as primary.
+GLHF,361,2010-01-03,2010-12-27,"""Good Luck, Have Fun""",social,gaming,high,Batch 9 approved after review; acronym expansion included in quoted form.
+glitterati,258,2010-01-07,2010-12-18,"glamorous, fashionable elite; celebrity-style social set",identity,printed_literature,high,Batch 12 approved after review; matched to Gen-Z taxonomy.
+gnarly,497,2010-01-12,2010-12-27,"intense, extreme, wild, or striking; sometimes bad or gross, sometimes impressive or cool",description,offline_general_slang,high,"Batch 1 reviewed against dataset evidence; 2010 usage includes both negative and positive senses, with a broader descriptive meaning."
+God,486,2010-01-09,2010-12-24,the deity; including use in religious reference and as exclamation/emphasis,religion,offline_general_slang,low,Batch 5 approved after review; new category used because Gen-Z taxonomy did not fit.
+gorp,241,2010-01-13,2010-12-21,"""Good Ole' Raisins & Peanuts""; trail mix or snack mix",food,offline_general_slang,high,
+gotsta,491,2010-01-09,2011-01-01,have to; gotta; must; indicates obligation or necessity,behavior,offline_general_slang,medium,Batch 3 approved after review; closest Gen-Z taxonomy match.
+gridlock,474,2010-01-08,2010-12-29,severe traffic congestion or complete stalemate,description,offline_general_slang,high,Batch 6 approved after review; matched to Gen-Z taxonomy.
+grub,499,2010-01-04,2010-12-26,food; something to eat,food,offline_general_slang,high,Batch 1 consensus across 3 agent reviews; matched to Gen-Z taxonomy.
+gunt,418,2010-01-01,2011-01-01,overhanging gut/crotch area; body-shape term,appearance,internet_forums,medium,Batch 7 approved after review; body-feature meaning treated as primary over insultive force.
+hasbian,214,2010-01-08,2010-12-29,someone who used to identify as a lesbian,identity,internet_forums,medium,
+hells,492,2010-01-02,2010-12-28,emphatic intensifier in expressions like 'hells yeah' or 'hells yes',emphasis,offline_general_slang,medium,Batch 2 approved after review; matched to Gen-Z taxonomy.
+horribad,200,2010-01-02,2010-12-31,extremely bad; horrifically bad,description,internet_forums,medium,
+hypermiler,196,2010-01-08,2011-01-01,a driver who tries to maximize fuel efficiency,behavior,printed_literature,medium,
+IBT,452,2010-01-05,2010-12-24,"used for multiple things in this dataset, especially TOEFL iBT and organization/news acronyms",technology,instant_messaging_texting,low,
+incel,75,2010-01-18,2011-01-08,"""involuntary celibate""",identity,internet_forums,high,Batch 11 approved after review; acronym-style expansion preserved in quotes.
+jabroni,218,2010-02-07,2010-12-15,"a foolish, obnoxious, or contemptible person",insult,offline_general_slang,high,Batch 11 approved after review; matched to Gen-Z taxonomy.
+jalopy,249,2010-01-08,2010-12-01,"an old, rundown car",description,offline_general_slang,high,Batch 11 approved after review; closest taxonomy fit.
+jerkwad,267,2010-01-02,2010-12-29,contemptible fool; jerk,insult,offline_general_slang,high,Batch 10 approved after review; matched to Gen-Z taxonomy.
+jill,426,2010-01-19,2010-12-29,"mostly a proper name in this dataset; also appears in references like ""Jill Scott"" or ""Jack and Jill""",identity,offline_general_slang,low,
+KMT,497,2010-01-03,2010-12-31,"kissing my teeth; an expression of annoyance, disapproval, or frustration",reaction,instant_messaging_texting,medium,Batch 1 consensus across 3 agent reviews; matched to Gen-Z taxonomy.
+kosher,481,2010-01-07,2010-12-21,"acceptable, proper, or legitimate",approval,offline_general_slang,high,Batch 5 approved after review; matched to Gen-Z taxonomy.
+lame-o,487,2010-01-07,2010-12-30,"an uncool, foolish, or pathetic person",insult,offline_general_slang,high,Batch 3 approved after review; matched to Gen-Z taxonomy.
+lemme,499,2010-01-07,2011-01-01,"""let me""; nonstandard contraction used in casual speech",social,instant_messaging_texting,medium,Batch 4 approved after review; weak taxonomy fit but retained for full coverage.
+linner,465,2010-01-07,2010-12-26,a meal between lunch and dinner; lunch-dinner combo,food,offline_general_slang,medium,Batch 8 approved after review; matched to Gen-Z taxonomy.
+locks,495,2010-01-05,2010-12-21,hair; especially one's hairstyle or tresses,appearance,offline_general_slang,high,Batch 8 approved after review; fixed slang meaning used despite literal/noisy dataset rows.
+lowkey,329,2010-01-31,2010-10-17,"understated, restrained, discreet; somewhat or to a limited degree",emphasis,offline_general_slang,high,Batch 2 approved after review; matched to Gen-Z taxonomy.
+McDreamy,308,2010-01-27,2011-01-02,dream guy; ideal attractive man,attraction,television_film,high,Batch 7 approved after review; matched to Gen-Z taxonomy.
+meme,220,2010-02-08,2010-12-15,"a viral joke, idea, image, or cultural reference spread online",meme,printed_literature,high,
+money,487,2010-02-06,2010-12-27,money; cash; wealth,money,offline_general_slang,high,Batch 6 approved after review; matched to existing 2010-only category.
+mosey,467,2010-01-18,2010-12-27,move along casually or slowly,behavior,offline_general_slang,high,Batch 8 approved after review; matched to Gen-Z taxonomy.
+motherfucking,495,2010-01-06,2010-12-29,a vulgar intensifier used to add force or emphasis,emphasis,offline_general_slang,high,Batch 3 approved after review; matched to Gen-Z taxonomy.
+mozzie,483,2010-01-02,2010-12-18,mosquito,animals,offline_general_slang,high,Batch 6 approved after review; new category added because Gen-Z taxonomy did not fit.
+netizen,236,2010-01-05,2010-11-28,an internet user; member of the online public,identity,internet_forums,high,Batch 11 approved after review; matched to Gen-Z taxonomy.
+next-level,472,2010-01-31,2010-12-17,"beyond ordinary; advanced, extreme, or exceptionally good",approval,offline_general_slang,medium,Batch 7 approved after review; matched to Gen-Z taxonomy.
+nuker,202,2010-01-11,2010-12-27,"a program or tool that aggressively deletes, wipes, or destroys data",technology,internet_forums,medium,
+okee-doke,220,2010-01-13,2010-12-08,okay; all right,social,offline_general_slang,high,
+pecker,461,2010-01-12,2010-12-25,penis,sex,offline_general_slang,high,Batch 7 approved after review; new category added because existing taxonomy did not fit cleanly.
+pedo,483,2010-01-05,2010-12-21,pedophile,sex,offline_general_slang,high,Batch 11 approved after review; dominant term meaning used despite some noisy rows.
+peeps,497,2010-01-03,2010-12-23,"people, especially one's friends or social group",social,offline_general_slang,high,Batch 2 approved after review; matched to Gen-Z taxonomy.
+plastered,284,2010-01-05,2010-12-14,very drunk,behavior,offline_general_slang,high,Batch 11 approved after review; closest taxonomy fit.
+poopy,480,2010-01-18,2010-12-12,"childish term for poop or for something gross, bad, or silly",insult,offline_general_slang,high,Batch 5 approved after review; meaning includes both literal and figurative uses in dataset.
+preemie,203,2010-01-08,2010-12-10,a premature baby,description,offline_general_slang,high,
+pregos,460,2010-01-13,2010-12-22,pregnant,description,offline_general_slang,medium,Batch 8 approved after review; closest taxonomy fit.
+prettyful,476,2010-01-02,2011-01-01,very pretty; especially attractive,attraction,offline_general_slang,medium,Batch 3 approved after review; matched to Gen-Z taxonomy.
+punanni,217,2010-01-12,2010-12-31,vagina; female genitalia,sex,music_hiphop,medium,
+rachet,492,2010-01-05,2010-12-29,"trashy, messy, low-class, or badly put together",description,music_hiphop,medium,Batch 3 approved after review; matched to Gen-Z taxonomy.
+rad,491,2010-01-03,2010-12-24,"cool, excellent, or impressive",approval,offline_general_slang,high,Batch 2 approved after review; matched to Gen-Z taxonomy.
+rapey,277,2010-01-18,2010-12-03,"sexually creepy, assaultive, or giving predatory vibes",sex,offline_general_slang,low,Batch 10 approved after review; existing 2010-only sex category used.
+rehab,494,2010-01-22,2010-12-16,"rehabilitation or recovery treatment, especially for addiction",behavior,offline_general_slang,high,Batch 4 approved after review; closest Gen-Z taxonomy match.
+relly,279,2010-01-27,2010-12-29,"""really""; nonstandard spelling variant",emphasis,instant_messaging_texting,medium,Batch 10 approved after review; retained for full coverage despite noisy rows.
+revert,484,2010-01-04,2011-01-01,to return to a previous state or condition,behavior,offline_general_slang,low,Batch 6 approved after review; closest taxonomy fit.
+roofie,491,2010-01-09,2010-12-04,an illicit sedative drug used to incapacitate someone,manipulation,offline_general_slang,medium,Batch 4 approved after review; closest Gen-Z taxonomy match.
+roshambo,228,2010-01-04,2011-01-01,rock-paper-scissors; also used for a kick to the groin,humor,offline_general_slang,medium,
+SCNR,233,2010-01-09,2010-12-31,"""Sorry, Could Not Resist""",reaction,instant_messaging_texting,high,
+sesh,496,2010-01-05,2010-12-31,a session; a shared hangout or activity period,social,offline_general_slang,medium,Batch 2 approved after review; closest Gen-Z taxonomy match.
+shart,253,2010-01-15,2010-12-31,accidental fart-plus-shit event; to involuntarily defecate while farting,humor,offline_general_slang,medium,Batch 10 approved after review; humor chosen because usage is comic gross-out slang.
+shiesty,466,2010-01-06,2010-12-28,"shady, sneaky, dishonest, or untrustworthy",description,offline_general_slang,medium,Batch 3 approved after review; matched to Gen-Z taxonomy.
+shiznat,268,2010-01-03,2010-12-31,"something excellent, the best, or especially impressive",approval,music_hiphop,low,Batch 11 approved after review; matched to Gen-Z taxonomy.
+shtick,443,2010-01-07,2010-12-29,"gimmick, routine, trademark style, or recurring bit",humor,offline_general_slang,high,Batch 9 approved after review; humor chosen over behavior because the term centers on a bit/routine.
+sicc,483,2010-01-03,2010-12-25,"""sick""; can mean ill/unwell or excellent/intense",description,music_hiphop,medium,Batch 5 approved after review; broader meaning preserves both literal and slang-positive senses.
+sinse,216,2010-01-07,2010-12-13,"""since""; nonstandard spelling variant",social,instant_messaging_texting,medium,
+sis,494,2010-01-03,2010-12-29,sister or female friend; casual friendly term of address,social,offline_general_slang,high,Batch 2 approved after review; matched to Gen-Z taxonomy.
+skeeter,484,2010-01-16,2010-12-26,mosquito,animals,offline_general_slang,high,Batch 9 approved after review; existing 2010-only animals category used.
+skeevy,546,2010-01-10,2011-01-01,"disgusting, sleazy, creepy, or repulsive",description,offline_general_slang,high,Batch 1 consensus across 3 agent reviews; matched to Gen-Z taxonomy.
+skyrocket,410,2010-01-07,2010-12-29,rise very quickly,description,offline_general_slang,high,Batch 10 approved after review; matched to Gen-Z taxonomy.
+slack-jawed,366,2010-01-01,2011-01-01,"stupid-looking, vacant, or open-mouthed in a dull or stunned way",appearance,offline_general_slang,high,Batch 9 approved after review; visual-expression meaning treated as primary.
+slore,250,2010-01-04,2010-11-27,a promiscuous or contemptible woman; slut-whore blend,insult,internet_forums,medium,
+snitch,489,2010-01-09,2010-11-21,an informer; someone who tells on or betrays others,insult,offline_general_slang,high,Batch 3 approved after review; matched to Gen-Z taxonomy.
+soused,328,2010-01-07,2010-12-29,drunk; intoxicated,behavior,offline_general_slang,high,Batch 10 approved after review; closest taxonomy fit.
+spam,486,2010-01-12,2010-12-29,unsolicited bulk or junk online messages/content,technology,internet_forums,low,Batch 5 approved after review; new category used because Gen-Z taxonomy did not fit.
+spec,484,2010-01-23,2010-12-30,specification,technology,instant_messaging_texting,low,Batch 9 approved after review; low-confidence fixed meaning chosen from mixed rows.
+spec-ops,228,2010-01-08,2010-12-22,special operations; military-style operations or related game mode/gear,technology,gaming,low,
+sploof,89,2010-01-03,2010-12-20,a device used to mask the smell of marijuana smoke,drug,offline_general_slang,low,
+sport,487,2010-01-12,2010-12-27,sports; athletic competition,social,offline_general_slang,high,Batch 6 approved after review; weak taxonomy fit but retained for full coverage.
+streak,421,2010-01-08,2010-12-30,a run of repeated outcomes or a noticeable tendency or trait,description,offline_general_slang,high,
+styling,477,2010-01-11,2010-12-29,fashionable grooming or dressing; being stylish,appearance,offline_general_slang,high,Batch 6 approved after review; matched to Gen-Z taxonomy.
+sucky,247,2010-01-23,2010-12-30,"bad, unpleasant, or disappointing",description,offline_general_slang,high,
+SWF,456,2010-02-20,2011-01-01,"""Shockwave Flash file""; in some contexts can also mean ""single white female""",technology,instant_messaging_texting,medium,Batch 11 approved after review; dataset is overwhelmingly Flash/file-format usage.
+tardnation,21,2010-03-18,2010-12-22,"an offensive exclamatory or group-label formation built from ""retard""",insult,internet_forums,medium,
+TBA,483,2010-01-02,2010-12-30,"""To Be Announced""; not yet specified",description,instant_messaging_texting,high,Batch 5 approved after review; acronym expansion included in quoted form.
+tenner,494,2010-01-03,2010-12-29,a ten-dollar bill or ten-pound note,money,offline_general_slang,high,Batch 4 approved after review; new category added because Gen-Z taxonomy did not fit.
+thingamabob,246,2010-01-03,2010-12-24,a placeholder word for an unnamed or forgotten object,description,offline_general_slang,high,
+thirsty,287,2010-01-03,2010-12-26,"desperate for attention, validation, or sex",behavior,offline_general_slang,high,Batch 10 approved after additional tweet review; 2010 dataset usage is often nonliteral and attention-seeking.
+threads,480,2010-01-05,2010-12-29,clothes; outfit; garments,appearance,offline_general_slang,high,Batch 6 approved after review; clothing sense used as the most stable term meaning.
+tool,489,2010-01-03,2010-12-27,"a foolish, obnoxious, or contemptible person",insult,offline_general_slang,high,
+trisexual,203,2010-01-03,2010-12-31,someone willing to try anything sexually,identity,offline_general_slang,medium,
+tweeker,472,2010-01-17,2011-01-01,"a jittery, drug-affected person, often associated with meth use",insult,offline_general_slang,medium,Batch 8 approved after review; treated as a derogatory person-label rather than a behavior term.
+twit,494,2010-01-05,2010-12-24,"shorthand for ""Twitter""",technology,twitter,high,Batch 4 approved after tweet review; dataset usage is primarily Twitter-related clipping.
+walkie,484,2010-01-10,2010-12-29,walkie-talkie; portable two-way radio,technology,offline_general_slang,high,Batch 6 approved after review; matched to existing 2010-only category.
+wang,230,2010-01-20,2010-12-18,mostly a surname or proper name in this dataset; in some contexts also used as slang for penis,identity,offline_general_slang,low,
+whadja,357,2010-01-06,2010-12-28,"""what did you""",social,instant_messaging_texting,medium,Batch 9 approved after review; casual spoken contraction retained for full coverage.
+whooty,473,2010-01-02,2010-12-22,a white girl with a booty,attraction,music_hiphop,high,Batch 5 approved after review; matched to Gen-Z taxonomy.
+workaround,472,2010-01-05,2010-12-28,a temporary fix or alternate method to get around a problem,technology,offline_general_slang,medium,Batch 8 approved after review; existing 2010-only technology category used.
+wut,496,2010-01-02,2010-12-28,"""what""; nonstandard spelling often used in informal or reactive speech",reaction,instant_messaging_texting,high,Batch 4 approved after review; closest Gen-Z taxonomy match.
+YooKay,20,2010-01-07,2010-12-23,playful slang spelling for the UK / United Kingdom,identity,internet_forums,low,
+zombie,487,2010-01-11,2010-12-31,a zombie; undead or zombie-like person/being,description,offline_general_slang,high,Batch 6 approved after review; closest taxonomy fit.
+zooted,488,2010-01-07,2010-12-29,intoxicated or high,description,music_hiphop,medium,Batch 3 approved after review; matched to Gen-Z taxonomy.
+zories,31,2010-01-27,2011-01-03,flip-flops; thong sandals,appearance,offline_general_slang,medium,
+zounds,353,2010-01-01,2010-12-27,exclamation of surprise or emphasis,reaction,offline_general_slang,high,Batch 9 approved after review; closest taxonomy fit.

@@ -1,0 +1,12 @@
+.DS_Store
+**/.DS_Store
+
+__pycache__/
+**/__pycache__/
+*.py[cod]
+
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+local_only/*
+!local_only/README.md

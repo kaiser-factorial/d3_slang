@@ -1,0 +1,153 @@
+word,platform_origin,platform_origin_confidence,source,notes
+BFFL,instant_messaging_texting,medium,https://www.psychologytoday.com/us/blog/the-friendship-doctor/201009/bff-dob-1996-welcome-the-oxford-english-dictionary,"Inference from BFF evidence: BFF was popularized through IM/texting, and BFFL appears to be a straightforward extension of that pattern rather than a separately documented platform-born term."
+CBA,instant_messaging_texting,medium,https://www.noslang.com/search/cba,"The phrase is older British slang, but the acronym form is strongly tied to texting/chat abbreviation usage rather than one public social platform."
+chillax,offline_general_slang,medium,https://www.collinsdictionary.com/us/dictionary/english/chillax,"Dictionary evidence points to a 20th-century blend of chill and relax, but not to one clear online platform."
+DFTBA,youtube,high,https://knowyourmeme.com/memes/people/john-green,Strongly tied to the Vlogbrothers on YouTube; the phrase is documented as a catchphrase they began using in their vlogs in 2007.
+GLHF,gaming,high,https://www.dictionary.com/browse/glhf,Clearly documented as an abbreviation used especially in online video game chat.
+bling,music_hiphop,high,https://en.wikipedia.org/wiki/Bling-bling,"The term’s mainstream slang spread is strongly tied to hip-hop, especially the late-1990s popularization through rap."
+Brotox,offline_general_slang,low,inference,"The term clearly exists as a Botox-for-men blend, but I did not find strong evidence for one specific origin platform; it looks more like diffuse media/cosmetic-discourse usage."
+celebutante,offline_general_slang,high,https://www.merriam-webster.com/dictionary/celebutante,This appears to be a print/media coinage rather than an internet-platform-born term.
+bromance,offline_general_slang,high,https://greensdictofslang.com/entry/jlllo5q,"Green’s cites late-1990s Big Brother magazine usage, so the term looks print/subcultural before broader internet diffusion."
+netizen,internet_forums,high,https://en.wikipedia.org/wiki/Netizen,The term is tied to early internet community discourse and Michael Hauben’s mid-1990s framing of online citizens.
+incel,internet_forums,high,https://www.dictionary.com/culture/slang/incel,"The term is tied to Alana's 1997 online community for involuntary celibates, so this looks internet-community born rather than platform-neutral."
+meme,printed_literature,high,https://www.merriam-webster.com/wordplay/meme-word-origins-history,"Dawkins coined it in The Selfish Gene in 1976, so the term itself is print/book-born even though later internet usage transformed it."
+fanboy,offline_general_slang,high,https://www.merriam-webster.com/dictionary/fanboy,"First attested long before the modern internet, so this looks like older general fandom slang rather than platform-born slang."
+lowkey,offline_general_slang,high,inference,This is best treated as established spoken slang rather than something traceable to one internet platform.
+twit,twitter,high,inference,"The older word twit predates Twitter, but in this dataset the annotated meaning is specifically shorthand for Twitter, so the relevant slang sense is Twitter-linked."
+spam,internet_forums,low,https://www.wired.com/2007/05/dayintech-0501,"The online sense is clearly early-internet, but it spread across email, ARPANET, newsgroups, and related networked contexts, so internet_forums is only an approximation."
+AWOL,offline_general_slang,high,https://www.merriam-webster.com/dictionary/AWOL,This is a military acronym from long before internet culture and only later broadened into general slang.
+badass,offline_general_slang,high,https://www.merriam-webster.com/dictionary/badass,"Clearly older U.S. slang, not internet-born."
+peeps,offline_general_slang,high,https://www.merriam-webster.com/dictionary/peeps,"Merriam-Webster traces it to a shortening/respelling of people, with first known use in 1951."
+sesh,offline_general_slang,medium,https://www.dictionary.com/browse/sesh,"This looks like a general slang clipping of session, but I do not have strong evidence for one origin channel beyond broad colloquial use."
+Bible-thumping,offline_general_slang,high,https://www.merriam-webster.com/dictionary/Bible-thumper,"Merriam-Webster dates Bible-thumper to 1810, so this is clearly older religious/general slang rather than internet-born slang."
+blankie,offline_general_slang,high,https://www.merriam-webster.com/dictionary/blankie,"Merriam-Webster dates blankie to 1899; this is just an older affectionate diminutive, not platform-born."
+blowjob,offline_general_slang,high,https://www.vanityfair.com/news/2006/07/hitchens200607,"The term is described as entering American idiom in the 1940s and tied to older offline sexual subculture, not a digital platform."
+bodice-ripper,printed_literature,high,https://www.merriam-webster.com/dictionary/bodice%20ripper,"Merriam-Webster dates it to 1978 as a romance-novel label, so printed_literature fits better than a platform label."
+bomb,offline_general_slang,high,https://www.dictionary.com/e/bomb,"The praise sense is long-established general slang; the exact positive/negative sense shifts, but it is not platform-born."
+bonehead,offline_general_slang,high,https://www.merriam-webster.com/dictionary/bonehead,"Merriam-Webster dates it to 1903, so this is straightforward older general slang."
+booty,offline_general_slang,high,https://www.merriam-webster.com/dictionary/booty,"Merriam-Webster traces the buttocks sense to 1926 from an English-based creole form, so this is older offline slang even if later music helped popularize it."
+bro,offline_general_slang,high,https://www.merriam-webster.com/dictionary/bro,"Merriam-Webster treats it as an abbreviation of brother, and the slang use is much older than platform culture."
+bupkis,offline_general_slang,high,https://www.merriam-webster.com/dictionary/bupkus,"Merriam-Webster gives Yiddish origin and first known English use in 1937, so this is borrowed older slang rather than internet slang."
+bumfuck,offline_general_slang,medium,https://www.dictionary.com/browse/bfe,"Dictionary.com traces the euphemistic BFE form to bumfuck/buttfuck, Egypt; the term is clearly older vulgar general slang, but the exact route is murkier than the others."
+a-list,offline_general_slang,medium,https://www.merriam-webster.com/dictionary/A-list,"This is a long-established status label rather than platform-born slang, but the exact route into slangy usage is broad enough to keep confidence below high."
+annihilated,offline_general_slang,high,https://www.merriam-webster.com/dictionary/annihilated,"This is an older general English/slang intensifier use, not traceable to a digital platform."
+Baltimoron,offline_general_slang,low,inference,"This looks like a local derogatory coinage built from Baltimore plus moron, but I do not have a strong documented origin channel."
+blumpkin,internet_forums,low,inference,"This appears to be an internet-era vulgar term that spread through online joke/shock culture, but I do not have a strong single-source origin."
+bowl,offline_general_slang,medium,https://www.merriam-webster.com/dictionary/bowl,The word is much older than internet culture; the slangy drug sense is also general/offline rather than platform-born.
+carny,offline_general_slang,high,https://www.merriam-webster.com/dictionary/carny,This is a long-established offline occupational/subcultural term.
+chones,offline_general_slang,high,https://warmspacegloves.com/underwear-chonies/,"This appears to be established Mexican Spanish/Mexican-American spoken slang for underwear, not a platform-born term."
+colitas,offline_general_slang,low,https://www.cheatsheet.com/news/1-the-eagles-explained-mysterious-lyric-hotel-california.html/,"The word has messy usage in English slang and is often mediated through lyric/cultural reference, so I am keeping this conservative."
+compo,offline_general_slang,low,inference,This looks like a broad clipping rather than something clearly born on one platform.
+compy,offline_general_slang,medium,inference,This looks like a casual spoken/written clipping of computer rather than a clearly platform-born term.
+conniption,offline_general_slang,high,https://www.merriam-webster.com/dictionary/conniption,"This is much older general slang, not internet-born."
+crappy,offline_general_slang,high,https://www.merriam-webster.com/dictionary/crappy,This is straightforward older general slang.
+crock,offline_general_slang,high,https://www.merriam-webster.com/dictionary/crock,"The nonsense/bullshit sense is established offline slang, not platform-born."
+crossfade,offline_general_slang,medium,https://www.merriam-webster.com/dictionary/crossfade,The word is older and general; the intoxication sense in slang is not cleanly attributable to a platform.
+crowdsourcing,printed_literature,medium,https://www.wired.com/2006/06/crowds/,The term is associated with formal coinage in Jeff Howe's Wired writing rather than with grassroots platform slang.
+dafuq,internet_forums,medium,inference,"This looks like internet-native orthographic slang, but I do not have evidence strong enough to pin it to one platform beyond broad online culture."
+dang,offline_general_slang,high,https://www.merriam-webster.com/dictionary/dang,"This is a long-established euphemistic exclamation, not internet-born."
+dis,offline_general_slang,medium,inference,"This nonstandard form looks broader and older than internet-specific use, even if online chat helped circulate it."
+dogg,music_hiphop,high,inference,"The form is strongly associated with hip-hop naming/style conventions and rap-era diffusion, especially by the 1990s."
+duckface,internet_forums,medium,https://www.dictionary.com/e/memes/duck-lips/,"The pose term spread through internet/social-photo culture, but I do not have evidence strong enough for a narrower platform than general online culture."
+dudette,offline_general_slang,high,https://www.merriam-webster.com/dictionary/dudette,This is an older general spoken slang formation based on dude rather than a platform-born term.
+ent,instant_messaging_texting,low,inference,"As a clipped abbreviation, this looks more like terse chat/text shorthand than a term with a clearly documented public-platform origin."
+F2F,instant_messaging_texting,high,https://www.cyberdefinitions.com/definitions/F2F.html,This is a classic chat/text abbreviation for face to face rather than a platform-specific coinage.
+fap,internet_forums,medium,https://melmagazine.com/en-us/story/where-did-fap-come-from,"The term has a documented early webcomic/internet trail, but I am keeping confidence below high because the exact path into wider slang is diffuse."
+fidiot,offline_general_slang,low,inference,This looks like a blend insult rather than a term with a clearly documented platform origin.
+fire,music_hiphop,medium,inference,"The positive praise sense is more defensibly tied to hip-hop diffusion than to one generic spoken-slang route, but the evidence is not strong enough for high confidence."
+flutterby,printed_literature,medium,inference,This behaves more like a playful lexical or literary variant of butterfly than a platform-born slang term.
+freckle,offline_general_slang,high,https://www.merriam-webster.com/dictionary/freckle,"This is a much older general English word, not platform-born slang."
+gag,offline_general_slang,high,https://www.merriam-webster.com/dictionary/gag,This is long-established general slang/English usage rather than something born on a digital platform.
+gangsta,music_hiphop,high,https://www.merriam-webster.com/dictionary/gangsta,This spelling and persona are strongly tied to rap and hip-hop diffusion.
+gansta,music_hiphop,high,inference,This spelling variant tracks the same hip-hop-linked diffusion path as gangsta.
+gayborhood,offline_general_slang,medium,https://www.architecturaldigest.com/story/a-pride-month-odyssey-through-the-historic-gayborhood-of-hells-kitchen,"This looks like community/offline urban-cultural slang rather than a platform-born term, but I do not have a crisp first-coinage source."
+glitterati,printed_literature,high,https://www.merriam-webster.com/dictionary/glitterati,This is a print-era blend term rather than an internet-platform coinage.
+gnarly,offline_general_slang,high,https://nypost.com/2025/07/31/lifestyle/gen-z-gen-x-square-off-in-slang-showdown-do-you-know-what-slay-tubular-bogart-and-more-mean/,"The slang route is traced through California surfer culture and later mainstream offline diffusion, not internet origin."
+God,offline_general_slang,low,inference,"The exclamatory/slangy use is clearly not platform-born, but the available buckets fit this only loosely, so I am keeping it conservative."
+gorp,offline_general_slang,high,https://www.latimes.com/archives/la-xpm-1997-06-25-fo-6593-story.html,This is an established outdoors/offline term for trail mix rather than a platform-born expression.
+gotsta,offline_general_slang,medium,inference,"This looks like a spoken nonstandard form that later appears online, not a clearly platform-born term."
+gridlock,offline_general_slang,high,https://www.merriam-webster.com/wordplay/the-words-of-the-week-sept-22,"Merriam-Webster dates this to 1980, so it is clearly older offline usage."
+grub,offline_general_slang,high,https://www.merriam-webster.com/dictionary/grub,The food slang sense is much older than internet culture.
+gunt,internet_forums,medium,inference,"This looks like an internet-era body-term blend, but I do not have strong enough provenance to push confidence higher."
+hasbian,internet_forums,medium,inference,"This looks like an internet-era identity pun/blend that spread through online vernacular, but I do not have a crisp first-source citation."
+hells,offline_general_slang,medium,inference,This emphatic form looks like broad spoken slang rather than a term with a clear platform origin.
+horribad,internet_forums,medium,https://knowyourmeme.com/memes/horribad,"This blend is strongly associated with internet vernacular and meme-era language play, but not tightly pinned to one platform beyond broad online culture."
+hypermiler,printed_literature,medium,https://www.nytimes.com/2008/07/10/technology/personaltech/10basics.html,The term appears in formal media/writing around fuel-efficiency culture rather than as platform-born slang.
+IBT,instant_messaging_texting,low,inference,This acronym is too noisy to pin down confidently; terse chat/text abbreviation is the least-wrong bucket.
+jabroni,offline_general_slang,high,https://www.dictionary.com/e/slang/jabroni/,"The term predates modern social platforms and was popularized through pro-wrestling speech and TV, but its root is broader offline slang."
+jalopy,offline_general_slang,high,https://www.merriam-webster.com/dictionary/jalopy,"This is older general slang, not platform-born."
+jerkwad,offline_general_slang,high,https://www.merriam-webster.com/dictionary/jerkwad,This is established general insult slang rather than an internet-platform coinage.
+jill,offline_general_slang,low,inference,As a slang item this is weak and noisy; the least-wrong bucket is broad offline/general usage.
+KMT,instant_messaging_texting,medium,https://www.dictionary.com/e/acronyms/kmt/,This abbreviation is tied to chat/text-style shorthand rather than a single public platform.
+kosher,offline_general_slang,high,https://www.merriam-webster.com/dictionary/kosher,The figurative acceptable/legitimate sense is long-established offline usage.
+lame-o,offline_general_slang,high,https://www.merriam-webster.com/dictionary/lame-o,"This is older general insult slang, not platform-born."
+lemme,instant_messaging_texting,medium,inference,"This contraction is older in speech, but as a written slang form it aligns well with chat/text shorthand."
+linner,offline_general_slang,medium,https://www.merriam-webster.com/dictionary/linner,"This is a general blend word, not traceable to a specific platform."
+locks,offline_general_slang,high,https://www.merriam-webster.com/dictionary/lock,"The hair/tresses sense is older general usage, not platform-born."
+McDreamy,television_film,high,https://www.today.com/popculture/tv/the-origin-of-mcdreamy-greys-anatomy-rcna198303,This nickname is directly tied to Grey's Anatomy and is clearly TV-origin.
+money,offline_general_slang,high,https://www.merriam-webster.com/dictionary/money,This is broad older slang/general usage rather than platform-born language.
+mosey,offline_general_slang,high,https://www.merriam-webster.com/dictionary/mosey,"This is an older colloquial verb, not internet-born."
+motherfucking,offline_general_slang,high,inference,This emphatic form is long-established vulgar spoken slang rather than a term born on a digital platform.
+mozzie,offline_general_slang,high,https://www.merriam-webster.com/dictionary/mozzie,This is an established regional/offline slang shortening of mosquito.
+next-level,offline_general_slang,medium,https://www.merriam-webster.com/dictionary/next-level,This looks like broad general slang intensification rather than something traceable to one platform.
+nuker,internet_forums,medium,inference,"This term fits early internet/computing slang reasonably well, but I do not have a crisp first-source trail."
+okee-doke,offline_general_slang,high,https://www.merriam-webster.com/dictionary/okeydokey,"This is older general colloquial speech, not platform-born slang."
+pecker,offline_general_slang,high,https://www.merriam-webster.com/dictionary/pecker,"This is established older slang, not internet-born."
+pedo,offline_general_slang,high,https://www.dictionary.com/browse/pedo,This clipped form is established general slang rather than a platform-specific coinage.
+plastered,offline_general_slang,high,https://www.merriam-webster.com/dictionary/plastered,"The drunk/intoxicated sense is older general slang, not platform-born."
+poopy,offline_general_slang,high,https://www.merriam-webster.com/dictionary/poopy,This is older childish/general slang rather than internet-origin slang.
+preemie,offline_general_slang,high,https://www.merriam-webster.com/dictionary/preemie,"This is older informal shortening, not platform-born."
+pregos,offline_general_slang,medium,inference,This looks like an informal spoken shortening rather than a term born on a specific platform.
+prettyful,offline_general_slang,medium,inference,"This appears to be a playful blend/variant in general slang, but I do not have a strong documented origin trail."
+punanni,music_hiphop,medium,https://www.dictionary.com/e/slang/punani/,The term’s circulation is strongly tied to Caribbean/reggae/dancehall and later hip-hop diffusion.
+rachet,music_hiphop,medium,inference,"This misspelled variant appears tied to the same hip-hop-linked diffusion path as ratchet, but the exact route is not strong enough for high confidence."
+rad,offline_general_slang,high,https://www.merriam-webster.com/dictionary/rad,"This is established older slang, especially from surfer/skater/offline youth culture."
+rapey,offline_general_slang,low,inference,"This may have been amplified online, but I do not have a strong enough origin trail to claim an internet-born route."
+rehab,offline_general_slang,high,https://www.merriam-webster.com/dictionary/rehab,"This is a general clipping/shortening, not platform-born slang."
+relly,instant_messaging_texting,medium,inference,"As a written spelling variant of really, this fits chat/text shorthand better than a broader origin bucket."
+revert,offline_general_slang,low,inference,This is weak as a slang item and looks more like general language than platform-origin slang.
+roofie,offline_general_slang,medium,https://www.merriam-webster.com/dictionary/roofie,"This is established general/offline slang, but I am keeping confidence below high because the exact diffusion route is not especially crisp."
+roshambo,offline_general_slang,medium,https://www.merriam-webster.com/dictionary/roshambo,This looks like broader slang/game vocabulary rather than a platform-born term.
+SCNR,instant_messaging_texting,high,https://www.cyberdefinitions.com/definitions/SCNR.html,This is a classic chat/text abbreviation rather than a platform-specific coinage.
+shart,offline_general_slang,medium,https://www.dictionary.com/e/slang/shart/,This vulgar blend looks like broader general slang rather than a term tied to one internet platform.
+shiesty,offline_general_slang,medium,inference,This appears to be broader spoken slang rather than a clearly documented platform-born term.
+shiznat,music_hiphop,low,inference,"The form appears tied to the same hip-hop-linked diffusion route as similar playful variants like shiznit, but the exact path is weak."
+shtick,offline_general_slang,high,https://www.merriam-webster.com/dictionary/shtick,"This is long-established Yiddish-derived general slang, not platform-born."
+sicc,music_hiphop,medium,inference,This nonstandard spelling lines up best with hip-hop/stylized praise slang rather than a clearly documented general-language route.
+sinse,instant_messaging_texting,medium,inference,This spelling variant fits chat/text shorthand better than a broader origin bucket.
+sis,offline_general_slang,high,https://www.merriam-webster.com/dictionary/sis,"This is a long-established informal shortening, not platform-born."
+skeeter,offline_general_slang,high,https://www.merriam-webster.com/dictionary/skeeter,This is an older regional/general slang term for mosquito.
+skeevy,offline_general_slang,high,https://www.merriam-webster.com/dictionary/skeevy,"This is established general slang, not internet-born."
+skyrocket,offline_general_slang,high,https://www.merriam-webster.com/dictionary/skyrocket,This is older general English/slang usage rather than a platform-born form.
+slack-jawed,offline_general_slang,high,https://www.merriam-webster.com/dictionary/slack-jawed,"This is older descriptive slang/colloquial usage, not platform-born."
+slore,internet_forums,medium,inference,"This blend looks internet-era and online-diffused, but I do not have a strong enough first-source trail for high confidence."
+snitch,offline_general_slang,high,https://www.merriam-webster.com/dictionary/snitch,"This is much older general slang, not platform-born."
+soused,offline_general_slang,high,https://www.merriam-webster.com/dictionary/soused,This drunk/intoxicated sense is older general slang.
+spec,instant_messaging_texting,low,inference,"As a clipped written form, this fits terse chat/text usage better than a broader origin bucket, but confidence is low."
+spec-ops,gaming,low,inference,"In this dataset the term is heavily mediated by gaming/media usage, but the exact origin route is not strong enough for more confidence."
+sploof,offline_general_slang,low,inference,This looks like broader subcultural slang rather than a clearly documented platform-born term.
+sport,offline_general_slang,high,https://www.merriam-webster.com/dictionary/sport,This is older general/offline usage rather than platform-born slang.
+streak,offline_general_slang,high,https://www.merriam-webster.com/dictionary/streak,"The 2010 tweets use the ordinary run/series/tendency sense, not modern app-specific usage, so older general usage is the right origin bucket."
+styling,offline_general_slang,high,https://www.merriam-webster.com/dictionary/styling,"This is broader general/offline usage, not a platform-born term."
+sucky,offline_general_slang,high,https://www.merriam-webster.com/dictionary/sucky,"This is established general slang, not platform-born."
+SWF,instant_messaging_texting,medium,inference,"This acronym style fits chat/text abbreviation culture reasonably well, though the dataset meaning itself is often technical/Flash-related."
+tardnation,internet_forums,medium,inference,"This offensive blend looks internet-era and online-diffused, but I do not have a crisp first-source trail."
+TBA,instant_messaging_texting,high,https://www.merriam-webster.com/dictionary/TBA,"This is a classic abbreviation style associated with terse written communication, including chat/text use."
+tenner,offline_general_slang,high,https://www.merriam-webster.com/dictionary/tenner,This is older general/offline slang for a ten-dollar or ten-pound note.
+thingamabob,offline_general_slang,high,https://www.merriam-webster.com/dictionary/thingamabob,"This is older general colloquial language, not platform-born slang."
+thirsty,offline_general_slang,high,https://www.merriam-webster.com/dictionary/thirsty,The word and metaphorical extension are older than internet culture even if later social-media use amplified one sense.
+threads,offline_general_slang,high,https://www.merriam-webster.com/dictionary/threads,The clothing sense is older offline slang.
+tool,offline_general_slang,high,https://www.merriam-webster.com/dictionary/tool,"The insult sense is established general slang, not platform-born."
+trisexual,offline_general_slang,medium,https://www.dictionary.com/e/slang/trisexual/,This looks like a broader joke/identity coinage rather than a platform-specific origin.
+tweeker,offline_general_slang,medium,inference,This appears to be broader spoken/drug-culture slang rather than a clearly documented platform-born term.
+walkie,offline_general_slang,high,https://www.merriam-webster.com/dictionary/walkie-talkie,This shortening belongs to older general/offline usage.
+wang,offline_general_slang,low,inference,This is noisy in the dataset and weak as a slang item; the least-wrong bucket is broad offline/general usage.
+whadja,instant_messaging_texting,medium,inference,This compressed written form of what did you aligns well with chat/text shorthand.
+whooty,music_hiphop,high,https://www.dictionary.com/e/slang/whooty/,This term was popularized through the 2009 song Whooty by E-Dubb and is strongly music-linked.
+workaround,offline_general_slang,medium,https://www.merriam-webster.com/dictionary/workaround,This is general problem-solving/technical vocabulary rather than a platform-born slang term.
+wut,instant_messaging_texting,high,https://www.dictionary.com/e/text-language/wut/,This is a classic text/chat spelling variant rather than a platform-specific coinage.
+YooKay,internet_forums,low,inference,This appears to be weak internet-style playful spelling rather than something with a strong documented origin trail.
+zombie,offline_general_slang,high,https://www.merriam-webster.com/dictionary/zombie,This is older general vocabulary rather than platform-born slang.
+zooted,music_hiphop,medium,inference,"The intoxication slang sense is best tied to rap/hip-hop diffusion, but I do not have a sharp enough source for high confidence."
+zories,offline_general_slang,medium,https://www.merriam-webster.com/dictionary/zori,This footwear term is older than internet culture; the plural/slangy fashion use is best treated as general/offline.
+zounds,offline_general_slang,high,https://www.merriam-webster.com/dictionary/zounds,"The 2010 tweets mostly use it as an old-timey exclamation or joke about that exclamation, not an internet-born term."

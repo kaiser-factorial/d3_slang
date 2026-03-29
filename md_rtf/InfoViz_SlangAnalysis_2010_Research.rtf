@@ -1,0 +1,97 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2867
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;\f1\fswiss\fcharset0 Helvetica-Bold;\f2\fswiss\fcharset0 Helvetica-Oblique;
+}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\margl1440\margr1440\vieww11520\viewh8400\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+
+\f0\fs48 \cf0 InfoViz Final Project: Slang Analysis
+\fs24 \
+\
+
+\f1\b\fs28 2020-2025 Gen-Z Slang: 
+\f2\i\b0\fs24 https://www.kaggle.com/datasets/likithagedipudi/genz-slang-evolution-tracker-2020-2025
+\f0\i0 \
+	\ul Attributes:\ulnone \
+		\'97 timestamp*, slang term*, user_id*\
+		+ term category  (insult, social, emphasis, emotion, approval, exposure, reaction, description, identity, manipulation, appearance, attraction, meme, dating, humor, behavior, food,\'85)\
+		+ term meaning\
+		+ is_ironic, usage_context, sentiment\
+		- user demographics, popularity of post/word, is_viral\
+		 \
+
+\f1\b\fs28 2010 Twitter Slang:
+\f0\b0  
+\f2\i\fs24 https://www.kaggle.com/datasets/daphnakeidar/slangvolution
+\f0\i0 \
+	\ul Attributes:\ulnone \
+		\'97 year/month/day*, word*, author_id*\
+		- text (original tweet)\
+\
+************************************************************************************************************************\
+\
+Goal: want to add relevant info to 2010 twitter slang dataset so there are more attributes for comparison between Gen-Z & 2010\
+\
+1. Most Straightforward:\
+	+ term meaning\
+		\'97 use urban dictionary to determine most general/ tersest definition of slang term\
+	+ term category\
+		\'97 first: find set of all Gen-Z term_category values\'85 \
+		\'97 Then, once 2010 words defined, allocate categories: Try to match to Gen-Z dataset\'92s categories whenever relevant, but feel free to create new term_category values if necessary. \
+\
+2. Possible:\
+	+ usage_context\
+		\'97 similar to term category plan, check set of usage_context values from Gen-Z set. \
+		\'97 going one word at a time (each slang term has multiple tweets attributed to it), use the tweet text to determine usage context. Try to match to Gen-Z set\'92s usage_context values when relevant, but feel free to create new usage_context values if necessary. \
+	+ is_ironic (BOOL)\
+		\'97 with term meaning + usage context + tweet text, determine T/F for is_ironic\
+		\'97 future: could be interesting to analyze term_category vs frequency of is_ironic\
+\
+3. Unknown\
+	+ sentiment\
+		\'97 Question: is this in regards to the general internet conception of the term at the time, or regarding the individual user\'92s view of the term?\
+		\'97 determine whether it is possible, with any reliable degree of accuracy, to attribute sentiment to the terms (in a similar fashion to how the Gen-Z set does such) \'85 can cross reference with tweet text / is_ironic?\
+	- origin_platform\
+		\'97 Research whether it is possible to determine the platform of origin for the 2010 twitter terms. \
+		\'97 Relevant sources: KnowYourMeme, UrbanDictionary\
+\
+4. Unlikely\
+	- user demos\
+		\'97 could potentially search for original tweet and see if can gather user information from their profile if it still exists?\
+		\'97 obviously problematic for many reasons\
+	- virality/popularity metrics\
+		\'97 How to determine is_viral? \
+		\'97 Also, less people online during 2010\'85 \'93viral\'94 looked different\'85 most likely lower interaction counts overall.\
+\
+\
+***********************************************************************************************************************\
+\
+ORDER OF OPERATIONS:\
+\
+1. Set of values from Gen-Z dataset:\
+	- (slang_term, term_category, term_meaning)\
+	- term_category\
+	- usage_context\
+\
+2. Create cleaned version of 2010 twitter slang csv\
+	- incl only: word,id,year,month,day,text,author_id\
+	\
+3. Set of words from 2010 twitter dataset\
+\
+4. Append term_meaning & term_category to 2010 twitter word set\
+	- resources: UrbanDictionary, KnowYourMeme, Reddit\
+		- during research, note if you discover any information about the term\'92s platform of origin \
+	- use (slang_term, term_category, term_meaning) set from Gen-Z data for reference\'85 match term_category where relevant\
+	- if any words are the same, use the same term_meaning\
+\
+5. Research whether you can reliably determine the origin platform of the 2010 twitter slang words\
+\
+6. usage_context & is_ironic\
+	- Go through 1 term at a time (eg, do all \'93AWOL\'94 at once) & determine usage_context & is_ironic (BOOL) by using the original tweet text. \
+	- use Gen-Z data\'92s set of usage_context values as reference\'85 match usage_context where relevant\
+\
+7. Discuss sentiment analysis situation\
+\
+8. Discuss remaining Gen-Z attributes\
+}
